@@ -6,7 +6,7 @@ function App() {
           <div className="gradient-orb orb-1"></div>
           <div className="gradient-orb orb-2"></div>
           <div className="gradient-orb orb-3"></div>
-        </div>
+        </div> 
         
         <div className="content">
           <div className="badge">
